@@ -3,7 +3,7 @@
   
   
   
-  ******used .env(environment variables)H
+  ******used .env(environment variables)
   HOST=host ip address
   PORT=port where API will run 
   DB_PORT=port number where postgres is running
