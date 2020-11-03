@@ -4,12 +4,12 @@
   
   
   ******used .env(environment variables)H
-  HOST=//host ip address
-  PORT=//port where API will run 
-  DB_PORT=//port number where postgres is running
-  USER_NAME=//username of postgres server
-  PASSWORD=//this is the password for database
-  DATABASE=//name of database
+  HOST=host ip address
+  PORT=port where API will run 
+  DB_PORT=port number where postgres is running
+  USER_NAME=username of postgres server
+  PASSWORD=this is the password for database
+  DATABASE=name of database
 
 
   &&&&URL
